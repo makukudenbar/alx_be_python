@@ -2,3 +2,4 @@
 # test_simple_calculator.py.
 # -programming_paradigm3
 # -programming_paradigm4
+# -programming_paradigm4
